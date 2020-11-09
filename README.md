@@ -135,8 +135,8 @@ else:
 
 ### 4.1. 90% dos discentes de minha disciplina utilizam Google como primeiro passo para pesquisa acadêmica;
 
-- e o PageRanke?
-- Por que o Google Scholar reforça concentração de citações em poucos artigos?
+- e o [PageRank](https://doi.org/10.1145/1052934.1052938)?
+- Por que o Google Scholar [reforça concentração de citações em poucos artigos](https://doi.org/10.1016/j.joi.2018.09.002)?
 
 ### 4.2. Como construir relevância na abundância digital?
 
