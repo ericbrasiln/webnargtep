@@ -8,7 +8,7 @@
 
 ## 1. Objetivos
 
-Propor elementos para uma reflexão geral sobre tecnologia, formação de professores e ebsibi de história em ambientes digitais, apontando para uma necessidade do fortaçecimento e disseminação de numa História Digital crítica.
+Propor elementos para uma reflexão geral sobre tecnologia, formação de professores e ebsibi de história em ambientes digitais, apontando para uma necessidade do fortalecimento e disseminação de numa História Digital crítica.
 
 ---
 
@@ -24,7 +24,7 @@ Essa mudança na estrutura do código, permitindo que o usuário permaneça atua
 
 As formas de leitura e a relação com a construção de coerência e sentido tb se alteram.
 
-Atualmente, Aza Raskin atua no [Centro de Tecnologia Humana](https://www.humanetech.com/){:target="_blank"} e em 2019 [afirmou estar arrependido de ter criado o _infinite scrolling_](https://www.thetimes.co.uk/article/i-m-so-sorry-says-inventor-of-endless-online-scrolling-9lrv59mdk){:target="_blank"}.
+>Atualmente, Aza Raskin atua no [Centro de Tecnologia Humana](https://www.humanetech.com/){:target="_blank"} e em 2019 [afirmou estar arrependido de ter criado o _infinite scrolling_](https://www.thetimes.co.uk/article/i-m-so-sorry-says-inventor-of-endless-online-scrolling-9lrv59mdk){:target="_blank"}.
 
 Podemos inclusive pensar nos exemplos usados por Chartier, em **A aventura do livro**, e avançarmos: a passagem do pergaminho para o index, depois do index para o livro digital. Mas agora, o próprio livro digital, especialmente quando no formato PDF, é incapaz de atender às dinâmicas de leitura significação de jovens alunos e alunas nascidos, muitas vezes, após a criação do _infinite scroll_.
 
@@ -113,6 +113,9 @@ else:
 
 </div>
 
+<img src="tt1.jpeg" height="30%" width="30%">
+<img src="tt2.jpeg" height="30%" width="30%">
+
 ---
 
 **Google: Apenas um buscador de conteúdo?**
@@ -157,6 +160,8 @@ Aqui a visualização disso no _Google Trends_:
 Ao mesmo tempo corremos o grande risco de ver as desigualdades serem aprofundadas ainda mais nesse contexto: quem detém capital para adquirir equipamentos, banda larga, mas também para a realização de capacitação, formação, contratação de empresas para soluções tecnológicas etc. Enquanto alunos e professores das redes públicas, discentes das universidades que dependem de bolsas, etc, são excluídos do processo.
 
 Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialmente nas licenciaturas, para que a educação dos aspectos digitais (tanto hardware e software) sirvam para romper as opressões.
+
+<div align="center"><img src="gifs/kamala.webp"/></div>
 
 [<img src="arrow.png" height="24" width="24">](#índice)
 
