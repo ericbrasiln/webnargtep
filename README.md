@@ -1,8 +1,17 @@
-## Eu, robô? por ums #HistóriaDigital crítina no ensino e formação de professores
+# Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores
 
-You can use the [editor on GitHub](https://github.com/ericbrasiln/webnargtep/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![will](gifs/will.mp4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Objetivos
+
+Propor elementos para uma reflexão geral sobre tecnologia, formação de professores e ebsibi de história em ambientes digitais, apontando para uma necessidade do fortaçecimento e disseminação de numa História Digital crítica.
+
+## 2. Meios / Mídidas / Métodos Digitais
+
+### _Infinite Scroll_
+[Aza Raskin](https://en.wikipedia.org/wiki/Aza_Raskin) criou em 2006 o _infinite scroll_ e mudou a experiência nas redes sociais.
+
+[I'm Sorry](https://www.thetimes.co.uk/article/i-m-so-sorry-says-inventor-of-endless-online-scrolling-9lrv59mdk)
 
 ### Markdown
 
