@@ -1,5 +1,7 @@
 # Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores
 
+***Eric Brasil (Unilab)***
+
 <div align="center"><img src="gifs/will.gif"/></div>
 
 ---
@@ -24,7 +26,7 @@ As formas de leitura e a relação com a construção de coerência e sentido tb
 
 Atualmente, Aza Raskin atua no [Centro de Tecnologia Humana](https://www.humanetech.com/){:target="_blank"} e em 2019 [afirmou estar arrependido de ter criado o _infinite scrolling_](https://www.thetimes.co.uk/article/i-m-so-sorry-says-inventor-of-endless-online-scrolling-9lrv59mdk){:target="_blank"}.
 
-Podemos inclusive pensar nos exemplos usados por Chartier (CITAR) e avançarmos: a passagem do pergaminho para o index, depois do index para o livro digital. Mas agora, o próprio livro digital, especialmente quando no formato PDF, é incapaz de atender às dinâmicas de leitura significação de jovens alunos e alunas nascidos, muitas vezes, após a criação do _infinite scroll_.
+Podemos inclusive pensar nos exemplos usados por Chartier, em **A aventura do livro**, e avançarmos: a passagem do pergaminho para o index, depois do index para o livro digital. Mas agora, o próprio livro digital, especialmente quando no formato PDF, é incapaz de atender às dinâmicas de leitura significação de jovens alunos e alunas nascidos, muitas vezes, após a criação do _infinite scroll_.
 
 PDF (_Portable Document Format_) é um formato de arquivo criado em 1993 pela _Adobe Systems_. Sua característica principal é representar documentos independentemente do software, do hardware e do sistema operacional, sem desconfigurar seu conteúdo.
 
@@ -36,7 +38,7 @@ Entretanto, essa própria característica que por anos o colocou como principal 
 - Fazer marcações no documento;
 - etc.
 
-Esse é um exemplo da necessidade urgente, especialmente nesse período de pandemia , isolamento social e governos de extrema-direita que têm conseguido utilizar as mídias e redes sociais digitais com impressionante força.
+**Esse é um exemplo da necessidade urgente, especialmente nesse período de pandemia, isolamento social e governos de extrema-direita que têm conseguido utilizar as mídias e redes sociais digitais com impressionante força.**
 
 ---
 
@@ -148,7 +150,7 @@ O desafio do “Virtual”/”Digital” está mais em voga do que nunca com a p
 
 O interesse em uma história digital, em suas inúmeras perspectivas, têm crescido e caminhado junto com as buscas sobre história pública - como refletido por Anita Lucchesi, na mesa [**Condições de produção da história em tempos digitais: experimentação e práticas híbridas**](https://youtu.be/0fc0fLeWlU4).
 
-Aqui o exemplo visualmente no _Google Trends_:
+Aqui a visualização disso no _Google Trends_:
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2402_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"história digital","geo":"BR","time":"today 12-m"},{"keyword":"história pública","geo":"BR","time":"today 12-m"},{"keyword":"sociologia digital","geo":"BR","time":"today 12-m"},{"keyword":"humanidades digitais","geo":"BR","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=BR&q=hist%C3%B3ria%20digital,hist%C3%B3ria%20p%C3%BAblica,sociologia%20digital,humanidades%20digitais&date=today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com.br:443/trends/embed/"}); </script> 
 
@@ -193,6 +195,19 @@ Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialm
 - [Podcast Escafandro: Profundezas da rede - Capítulo 1: O Tabuleiro](https://www.b9.com.br/shows/escafandro/profundezas-da-rede-capitulo-1-o-tabuleiro/)
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6498ec82-7fd3-40d4-9613-e4d59a17d757?dark=false"></iframe>
+
+- Mesa **História pública digital e educação**, quarta-feira, 11/11/2020, às17h:
+
+{::options parse_block_html="false" /}
+
+<div class="center">
+
+<blockquote class="twitter-tweet">
+<p lang="pt" dir="ltr">História pública digital e educação. Quarta 17h<a href="https://twitter.com/alucchesi?ref_src=twsrc%5Etfw">@alucchesi</a> <a href="https://twitter.com/olivianeta?ref_src=twsrc%5Etfw">@olivianeta</a> <a href="https://twitter.com/PensarEducacao?ref_src=twsrc%5Etfw">@PensarEducacao</a> <br><br>Como lidamos com o <a href="https://twitter.com/hashtag/passado?src=hash&amp;ref_src=twsrc%5Etfw">#passado</a> da <a href="https://twitter.com/hashtag/educacao?src=hash&amp;ref_src=twsrc%5Etfw">#educacao</a>? Como usamos a <a href="https://twitter.com/hashtag/Tecnologia?src=hash&amp;ref_src=twsrc%5Etfw">#Tecnologia</a> para produzir e democratizar conteúdos da <a href="https://twitter.com/hashtag/Historia?src=hash&amp;ref_src=twsrc%5Etfw">#Historia</a>? <a href="https://twitter.com/hashtag/historiadigital?src=hash&amp;ref_src=twsrc%5Etfw">#historiadigital</a> <a href="https://twitter.com/hashtag/humanidadesdigitais?src=hash&amp;ref_src=twsrc%5Etfw">#humanidadesdigitais</a> <a href="https://twitter.com/hashtag/historiapublica?src=hash&amp;ref_src=twsrc%5Etfw">#historiapublica</a> <a href="https://twitter.com/hashtag/ensino?src=hash&amp;ref_src=twsrc%5Etfw">#ensino</a> <a href="https://t.co/cO3ff3lW1u">pic.twitter.com/cO3ff3lW1u</a></p>&mdash; João Gilberto Saraiva (@0jonjo) <a href="https://twitter.com/0jonjo/status/1325767936276131842?ref_src=twsrc%5Etfw">November 9, 2020</a>
+</blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 [<img src="arrow.png" height="24" width="24">](#índice)
 
