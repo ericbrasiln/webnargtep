@@ -1,6 +1,8 @@
 # Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores
 
-![will](gifs/will.mp4)
+<div align="center"><img src="gifs/will.gif"/></div>
+
+---
 
 ## 1. Objetivos
 
@@ -8,7 +10,9 @@ Propor elementos para uma reflexão geral sobre tecnologia, formação de profes
 
 ## 2. Meios / Mídidas / Métodos Digitais
 
+
 ### _Infinite Scroll_
+<div align="center"><img src="gifs/michelle.gif"/></div>
 [Aza Raskin](https://en.wikipedia.org/wiki/Aza_Raskin) criou em 2006 o _infinite scroll_ e mudou a experiência nas redes sociais.
 
 [I'm Sorry](https://www.thetimes.co.uk/article/i-m-so-sorry-says-inventor-of-endless-online-scrolling-9lrv59mdk)
