@@ -167,7 +167,7 @@ Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialm
 
 <div align="center"><img src="gifs/kamala.webp"/></div>
 
-[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores))
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
 
 ---
 
@@ -228,7 +228,7 @@ Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialm
 
 * <a href="https://twitter.com/ericbrasiln" target="_blank">Twitter - @ericbrasiln</a>
 
-<a href ="https://studio.youtube.com/channel/UC-tuyLIm7Ww_TDjKdHdnaAg/videos" target="_blank">Canal do YouTube - 
+* <a href ="https://studio.youtube.com/channel/UC-tuyLIm7Ww_TDjKdHdnaAg/videos" target="_blank">Canal do YouTube 
 
 * <a href="https://ericbrasiln.github.io/" target="_blank"> Site</a>
 
