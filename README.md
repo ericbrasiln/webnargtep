@@ -40,6 +40,8 @@ Entretanto, essa própria característica que por anos o colocou como principal 
 
 **Esse é um exemplo da necessidade urgente, especialmente nesse período de pandemia, isolamento social e governos de extrema-direita que têm conseguido utilizar as mídias e redes sociais digitais com impressionante força.**
 
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
+
 ---
 
 ## 3. Eu, robô? o Instagram tem certeza que sim.
@@ -125,7 +127,7 @@ else:
 <img src="g2.jpg" height="40%" width="40%">
 <img src="g1.jpg" height="40%" width="40%">
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
 
 ---
 
@@ -141,6 +143,8 @@ else:
 - Formação interdisciplinar focada na capacitação e reflexão crítica das tecnologias de informação e comunicação;
 - Enfrentar criticamente o _invisível_ por trás das plataformas através de arcabouço teórico-metodológico do campo da história e do ensino da história:
   - o **algoritmo** tb deve ser considerado como fonte no processo de pesquisa e ensino e aprendizagem
+
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
 
 ---
 
@@ -163,7 +167,7 @@ Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialm
 
 <div align="center"><img src="gifs/kamala.webp"/></div>
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores))
 
 ---
 
@@ -214,7 +218,7 @@ Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialm
 
 </div>
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
 
 ---
 
@@ -230,7 +234,7 @@ Por isso essas reflexões precisam ser feitas junto com nossos alunos, especialm
 
 * <a href= "https://github.com/ericbrasiln/" target="_blank"> Github</a>
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
 
 ---
 
@@ -240,4 +244,4 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 2020 Eric Brasil
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#eu-robô-por-uma-históriadigital-crítica-no-ensino-e-formação-de-professores)
